@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "target-blank",
+    "id": "a6e66b43-228a-47c7-8fc2-9b5b63ad2096",
+    "version": "1.0.0.6",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "target-blank.sppkg"
+  }
+}
